@@ -1,3 +1,7 @@
 # Table of contents
 
-* [Page](README.md)
+* [Audio Enhance Project](README.md)
+
+## ChangeRequests
+
+* [Monthly Change-Jan](changerequests/monthly-change-jan.md)
